@@ -38,7 +38,7 @@ This tool helps you rediscover what you already own — and maybe even finish it
 ### Step 1: Get the Code
 **Option A: Clone the repository (if you have Git)**
 ```bash
-git clone git@github.com:ALLATSEA27/steam-game-randomizer.git
+git clone git@github.com:AjinkyaDeshmukh1990/steam-game-randomizer.git
 cd steamrecommender
 ```
 
