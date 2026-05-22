@@ -115,8 +115,8 @@ deactivate
 ### Method 2: From Your Steam Profile
 1. Go to your Steam profile page
 2. Right-click on your profile and select "Copy Page URL"
-3. The URL will look like: `https://steamcommunity.com/profiles/76561198012345678/`
-4. The number at the end is your SteamID64: `76561198012345678`
+3. The URL will look like: `https://steamcommunity.com/profiles/id/`
+4. The number at the end is your SteamID64: `id`
 
 ### Method 3: From Steam Client
 1. Open Steam
